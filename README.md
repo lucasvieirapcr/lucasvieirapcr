@@ -21,4 +21,4 @@
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
 
-<h4>Após ter concluído o ensino médio técnico em informática, eu sabia que queria seguir uma carreira em TI. Hoje estou no meu terceiro semestre em Ciência da Computação e estudando para me tornar um Desenvolvedor Full-Stack.</h4>
+<h4>Como estudante do sexto semestre de Ciência da Computação, meu objetivo profissional é encontrar uma oportunidade profissional que me permita continuar aprimorando minhas habilidades de programação e explorando novas tecnologias. Sou motivado a participar de projetos desafiadores, onde posso contribuir com meu conhecimento técnico e criatividade para desenvolver soluções eficientes e escaláveis. </h4>
